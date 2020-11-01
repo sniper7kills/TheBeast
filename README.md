@@ -18,10 +18,6 @@ This PC was built to meet the following objectives:
 
 Due to the vast difference in the different objectives, and the need to have multiple running at the same time I decided to go for a fully virtuallized desktop environment.
 
-## Parts
-
-
-
 ## Installation
 
 ### Hardware
